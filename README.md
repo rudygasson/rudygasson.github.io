@@ -1,4 +1,2 @@
-rudygasson.github.io
-====================
-
-Tech Blog
+Github Pages 
+============
