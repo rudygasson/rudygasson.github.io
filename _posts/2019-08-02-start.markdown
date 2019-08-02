@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Starting"
+date:   2019-08-02 13:21:24 +0200
+categories: blog
+---
+
+### Die alte Leier: "Es ist alles ganz leicht..."
+
+Das wird meine erste Testseite hier. Noch immer habe ich den "einfachen" Blog nach ca. 3 Stunden nicht zum Laufen bekommen. Von Template-Entscheidungen ganz abgesehen. Es ist immer noch dasselbe mit diesen Basteleien und der Werbung, auch nach 25 Jahren Internet hat sich wenig geändert.
+
+{% highlight javascript %}
+function test(input) {
+  if (input === "Yep!") then console.log("Hello!");
+}
+{% endhighlight %}
+

@@ -1,9 +1,6 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
-
-## Test entry
-
-Still not sure which of the entries is shown in the frontend and/or detected by Jekyll.
-**Should be easier to understand**
