@@ -1,5 +1,5 @@
 ---
 layout: blog
 title: de
-category: de
+lang: de
 ---
