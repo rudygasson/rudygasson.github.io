@@ -16,11 +16,15 @@
 title: "Rudy Gasson"
 description: >- # this means to ignore newlines until "baseurl:"
   Notizen & Gedanken
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://rudygasson.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rudygasson
 github_username:  rudygasson
+author: Rudy Gasson
 lang: de
+feed:
+    posts_limit: 0
+    excerpt_only: true
 
 # Build settings
 markdown: kramdown
@@ -37,3 +41,10 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - javascripts/
+  - src/
+  - images/
+  - README.md
+
