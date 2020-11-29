@@ -1,6 +1,6 @@
 ---
-layout: home
-title: english
+layout: blog
+title: en
 permalink: /en/
-category: blog-en
+category: en
 ---
