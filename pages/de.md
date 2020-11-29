@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: blog
+title: de
 permalink: /de/
-category: blog-de
+category: de
 ---
