@@ -22,7 +22,7 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
         {{ page.category }} {{ post.categories }}
-        {%- if post.categories.include?(page.category) -%}
+        {%- if post.categories contains page.category -%}
         <li>
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <h3>
