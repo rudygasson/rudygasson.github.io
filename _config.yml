@@ -13,15 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Rudy Gasson"
+title: "Digitale Katakombe"
 description: >- # this means to ignore newlines until "baseurl:"
-  Notizen & Gedanken
+  "Schreiben ist leicht.  
+  Man muss nur die falschen Wörter weglassen."   
+  (Mark Twain, 1835 - 1910)
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://rudygasson.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rudygasson
 github_username:  rudygasson
 author: Rudy Gasson
 lang: de
+show_excerpts: true
 feed:
     posts_limit: 0
     excerpt_only: true

@@ -1,5 +1,5 @@
 ---
 layout: blog
-title: de
+title: Gedanken
 lang: de
 ---
