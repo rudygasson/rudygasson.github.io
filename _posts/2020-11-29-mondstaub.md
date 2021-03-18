@@ -6,7 +6,7 @@ lang: de
 ---
 Ein weiterer Test für die Kategorisierung der Blog-Einträge. 
 
-![Moon Picture](/assets/nasa-moon.jpg)
+![Moon Picture](/assets/nasa-moon-50-q30-e4.avif)
 
 > Wie sieht eigentlich ein Zitat aus?  
 > Geht das auch ohne Zwischenzeilen?
