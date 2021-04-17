@@ -18,7 +18,7 @@
 # (Mark Twain, 1835 - 1910)
 
 title: "Rudy Gasson"
-description: "Text & Software"
+description: "text & code"
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://rudygasson.de" # the base hostname & protocol for your site, e.g. http://example.com
